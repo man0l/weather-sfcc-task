@@ -1,0 +1,57 @@
+[
+
+{
+"id": 1,
+"name": "Sofia",
+"temp": 10
+},
+{
+    "id": 2,
+    "name": "Varna",
+    "temp": 11
+    }
+,
+{
+    "id": 3,
+    "name": "Plovdiv",
+    "temp": 12
+    }
+,{
+    "id": 4,
+    "name": "Burgas",
+    "temp": 12
+    },
+    {
+    "id": 5,
+    "name": "Ruse",
+    "temp": 18
+    },
+{
+    "id": 6,
+    "name": "Veliko Tarnovo",
+    "temp": 8
+    },
+    {
+        "id": 7,
+        "name": "Dobrich",
+        "temp": 15
+        }
+    ,
+    {
+        "id": 8,
+        "name": "Kazanluk",
+        "temp": 13
+        }
+    ,{
+        "id": 9,
+        "name": "Yambol",
+        "temp": 12
+        },
+    {
+        "id": 10,
+    "name": "Pernik",
+    "temp": 18
+    }
+    
+
+]

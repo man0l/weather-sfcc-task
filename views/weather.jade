@@ -1,0 +1,13 @@
+extends layout
+
+block content
+    h1.text-center Weather
+    form(method='post', action='/weather')
+        .input-group
+            select(id="weather", name="city_id")
+              for item in weatherData
+                option(value=item.id) #{item.name}
+            span.input-group-btn
+                input.btn.btn-success(type='submit', value='Get Weather')
+    if (locals.city)
+        p Your selected city is #{city.name} and the temperature is #{city.temp} degrees
